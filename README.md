@@ -7,14 +7,14 @@
 <div align="center">
 
 ### :man_technologist: About Me :
-My technology stack: Python, C/C++, Web.
+### My technology stack: Python, C/C++, Web.
 
- :bank: 📚Radioengineering Faculty student.   
+###📚Radioengineering Faculty student.   
 <div align="center">
-🏛Igor Sikorsky Kyiv Polytechnic Institute.
+###🏛Igor Sikorsky Kyiv Polytechnic Institute.
 </div>
 
 
-👇Check out my repos👇
+Check out my repos👇
 
 </div>
