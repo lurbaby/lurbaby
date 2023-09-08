@@ -9,11 +9,10 @@
 ### :man_technologist: About Me :
 My technology stack: Python, C/C++, Web.
 
- :bank: Radioengineering Faculty student  
+ :bank: Radioengineering Faculty student at   
 <div align="center">
-at Igor Sikorsky Kyiv Polytechnic Institute.
+Igor Sikorsky Kyiv Polytechnic Institute.
 </div>
-
 
 👇Check out my repos👇
 
