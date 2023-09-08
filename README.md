@@ -9,7 +9,10 @@
 ### :man_technologist: About Me :
 My technology stack: Python, C/C++, Web.
 
- :bank: Radioengineering Faculty student<br>at Igor Sikorsky Kyiv Polytechnic Institute. 
+ :bank: Radioengineering Faculty student  
+<div align="center">
+at Igor Sikorsky Kyiv Polytechnic Institute.
+</div>
  :mailbox: Mail Contact: olexandrchoriy@gmail.com 
 👇Check out my repos👇
 
