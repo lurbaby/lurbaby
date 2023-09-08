@@ -13,7 +13,8 @@ My technology stack: Python, C/C++, Web.
 <div align="center">
 at Igor Sikorsky Kyiv Polytechnic Institute.
 </div>
- :mailbox: Mail Contact: olexandrchoriy@gmail.com 
+
+
 👇Check out my repos👇
 
 </div>
