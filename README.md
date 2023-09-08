@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://wallpapercosmos.com/w/full/8/e/3/1473685.jpg" width="600" height="300"/>
+    <img src="https://wallpapercosmos.com/w/full/a/e/a/794713-2160x3840-mobile-4k-swirl-wallpaper-photo.jpg" width="600" height="300"/>
   </a>
 </div>
 
@@ -9,10 +9,11 @@
 ### :man_technologist: About Me :
 My technology stack: Python, C/C++, Web.
 
- :bank: Radioengineering Faculty student at   
+ :bank: 📚Radioengineering Faculty student.   
 <div align="center">
-Igor Sikorsky Kyiv Polytechnic Institute.
+🏛Igor Sikorsky Kyiv Polytechnic Institute.
 </div>
+
 
 👇Check out my repos👇
 
