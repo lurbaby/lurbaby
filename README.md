@@ -8,11 +8,11 @@
 
 ### :man_technologist: About Me :
 ### My technology stack: Python, C/C++, Web.
-
 📚Radioengineering Faculty student.   
 <div align="center">
 <b>🏛Igor Sikorsky Kyiv Polytechnic Institute.</b>
 </div>
+###Currently i`m learning Js and practicing by making automatization with the C language.
 
 <br>
 Check out my repos👇
