@@ -12,7 +12,9 @@
 <div align="center">
 <b>🏛Igor Sikorsky Kyiv Polytechnic Institute.</b>
 </div>
-###Currently i`m learning Js and practicing by making automatization with the C language.
+<br>
+Currently i`m learning Js and practicing by making automatization with the C language.
+</br>
 
 <br>
 Check out my repos👇
