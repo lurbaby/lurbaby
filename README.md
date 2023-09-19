@@ -13,7 +13,7 @@
 <b>🏛Igor Sikorsky Kyiv Polytechnic Institute.</b>
 </div>
 <br>
-Currently i`m learning Js and practicing by making automatization with the C language.
+ <b>Currently i`m learning JavaScript and practicing by making automatization with the C language and Python.</b>
 </br>
 
 <br>
