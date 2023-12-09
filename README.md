@@ -7,13 +7,14 @@
 <div align="center">
 
 ### About Me :
-### My technology stack: Python, C/C++, Web.
+### DevOps & Coder 
+
 📚Radioengineering Faculty student.   
 <div align="center">
 <b>🏛Igor Sikorsky Kyiv Polytechnic Institute.</b>
 </div>
 <br>
- <b>Programmer & DevOps </b>
+ <b>My technology stack: Python, C/C++, Web.</b>
 </br>
 
 <br>
