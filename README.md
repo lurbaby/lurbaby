@@ -20,12 +20,13 @@
 </pre>
   </div>
 <div align='center'>
-  📚Radioengineering Faculty student.   
-  🏛Igor Sikorsky Kyiv Polytechnic Institute.
-</div>
+
+###  📚Radioengineering Faculty student.   
+###  🏛Igor Sikorsky Kyiv Polytechnic Institute.
   
 ### My technology stack: Python, C/C++, Js.
 ### Check out my repos👇
+</div>
 
 
 
