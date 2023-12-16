@@ -1,8 +1,4 @@
 <div align="center">
-  <style class ="lurbaby"> 
-  fz = 1.2px;
-  
-  </style>
   <pre class="lurbaby">
                                ██▓     █    ██  ██▀███   ▄▄▄▄    ▄▄▄       ▄▄▄▄ ▓██   ██▓                                                              
                               ▓██▒     ██  ▓██▒▓██ ▒ ██▒▓█████▄ ▒████▄    ▓█████▄▒██  ██▒                                                              
@@ -38,6 +34,18 @@
 📚Radioengineering Faculty student.   
 <div align="center">
 <b>🏛Igor Sikorsky Kyiv Polytechnic Institute.</b>
+
+
+<style>
+    .lurbaby{
+    fz = 1.2px;
+      
+    }
+  
+  </style>
+  
+
+  
 </div>
 <br>
  <b>My technology stack: Python, C/C++, Web.</b>
