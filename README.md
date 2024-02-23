@@ -1,6 +1,6 @@
 <div align="center">
 
-   <img src="Screenshot from 2024-02-23 23-21-56.png" alt="Girl in a jacket" width="500" height="600"> 
+   <img src="Screenshot from 2024-02-23 23-21-56.png" alt="ьфшт" width="auto" height="100%"> 
 
   </div>
 <div align='center'>
