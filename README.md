@@ -1,4 +1,5 @@
 <div align="center">
+   <img src="Screenshot from 2024-02-23 23-21-56.png" alt="ьфшт" width="auto" height="50%"> 
   <h1>DevOps. Coder. Engineer.</h1>  
   <h2>📚Radioengineering Faculty student.</h2>   
   <h2>🏛Igor Sikorsky Kyiv Polytechnic Institute.</h2>
