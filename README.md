@@ -16,12 +16,12 @@ body {
   </div>
 <div align='center'>
 
-### DevOps. Coder. Engineer.  
-###  📚Radioengineering Faculty student.   
-###  🏛Igor Sikorsky Kyiv Polytechnic Institute.
+<h1>DevOps. Coder. Engineer.</h1>  
+<h2>📚Radioengineering Faculty student.</h2>   
+<h2>🏛Igor Sikorsky Kyiv Polytechnic Institute.</h2>
   
-### My technology stack: Python, C/C++, Js.
-### Check out my repos👇
+<h2>My technology stack: Python, C/C++, Js.</h2>
+<h2>Check out my repos👇</h2>
 </div>
 
 
