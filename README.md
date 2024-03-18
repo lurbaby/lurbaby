@@ -3,7 +3,7 @@
   <h2>📚Radioengineering Faculty student.</h2>   
   <h2>🏛Igor Sikorsky Kyiv Polytechnic Institute.</h2>
   
-  <h3>DevOps & Programmer with 2+ years expirience in: Network, Cloud infrastructure, Pentest & CyberSecurity, Programming and automatization. I’m looking for highly creative projects with interesting assignment and friendly team to grow together.</h3>  
+  <h5>DevOps & Programmer with 2+ years expirience in: Network, Cloud infrastructure, Pentest & CyberSecurity, Programming and automatization. I’m looking for highly creative projects with interesting assignment and friendly team to grow together.</h5>  
 
  
 # 💻 Tech Stack:
