@@ -4,7 +4,7 @@
   <h2>📚Radioengineering Faculty student.</h2>   
   <h2>🏛Igor Sikorsky Kyiv Polytechnic Institute.</h2>
   <div text-align="left">  
-  <h4>3+ years of expirience </h4>  
+  <h2>3+ years of expirience: Clouds, Programming, Automation, Pentest</h2>  
 </div>
 
  
